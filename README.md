@@ -1,4 +1,4 @@
 # LiDAR
 Um projeto para identificação de pontos de nuvem.
 
-Este projeto tem como função fazer a Tem transformação de dados LiDAR para imagem e verificar se há elevações nas imagens.
+Este projeto tem como função fazer a transformação de um arquivo com point-cloud em imagem e verificar se há ponto com caracteristica de PONTE.
